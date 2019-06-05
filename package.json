@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "testcafe": "^1.2.0"
+  },
+  "devDependencies": {
+    "nexe": "^3.2.1"
+  }
+}
